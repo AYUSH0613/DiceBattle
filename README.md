@@ -22,12 +22,19 @@ How to Play:
 Welcome To Dice Game🎲
 
 >>> Enter Your Guess 🤫:  3
+
 Rolling 🎲...
+
 🎲=4
+
 You lost 😕
+
 >>> Enter Your Guess 🤫:  4
+
 Rolling 🎲...
+
 🎲=4
+
 Congratulations You won!!! 🥳
 
 >>> Enter Your Guess 🤫:  quit
