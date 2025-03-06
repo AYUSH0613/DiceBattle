@@ -21,12 +21,12 @@ How to Play:
 
 Welcome To Dice Game🎲
 
->>> Enter Your Guess 🤫:  3
+Enter Your Guess 🤫:  3
 Rolling 🎲...
 🎲=4
 You lost 😕
 
->>> Enter Your Guess 🤫:  4
+Enter Your Guess 🤫:  4
 Rolling 🎲...
 🎲=4
 
