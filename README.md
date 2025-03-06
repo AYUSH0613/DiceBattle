@@ -32,7 +32,7 @@ Rolling 🎲...
 
 Congratulations You won!!! 🥳
 
->>> Enter Your Guess 🤫:  quit
+Enter Your Guess 🤫:  quit
 
 Thanks for playing the game. You won 2 times! 😃
 
